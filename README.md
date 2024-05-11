@@ -5,11 +5,6 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -18,38 +13,36 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows (Windows 10 Pro)</b> 
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create an Azure Tenant
+- Create a Virtual Machine
+- Create a Resource Gruop
+- Install osTickket on Virtual Machine
+  
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Create an Azure Tenant
+![image](https://github.com/Traviskthomas/osticket-prereqs/assets/166442537/767c0935-1279-41ea-9c8e-94548af2c634)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Create a Virtual Machine
+  
+![image](https://github.com/Traviskthomas/osticket-prereqs/assets/166442537/968c54b7-a562-4f8c-82db-c42be0aaeee4)
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br /># osticket-prereqs
+Create a Resource Gruop
+
+![image](https://github.com/Traviskthomas/osticket-prereqs/assets/166442537/45bb797b-436e-4a2d-94ce-09d2d9bbc62c)
+
+
+Install osTickket on Virtual Machine
+
+![image](https://github.com/Traviskthomas/osticket-prereqs/assets/166442537/6dc74ab1-1ff3-4fcd-b796-b9e55e6dbbd3)
+![image](https://github.com/Traviskthomas/osticket-prereqs/assets/166442537/265bd287-21af-41a4-97ad-089606922e48)
+
+

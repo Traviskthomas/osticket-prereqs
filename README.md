@@ -40,7 +40,7 @@ Create a Resource Gruop
 ![image](https://github.com/Traviskthomas/osticket-prereqs/assets/166442537/45bb797b-436e-4a2d-94ce-09d2d9bbc62c)
 
 
-Install osTickket on Virtual Machine
+Install osTicket on Virtual Machine
 
 ![image](https://github.com/Traviskthomas/osticket-prereqs/assets/166442537/6dc74ab1-1ff3-4fcd-b796-b9e55e6dbbd3)
 ![image](https://github.com/Traviskthomas/osticket-prereqs/assets/166442537/265bd287-21af-41a4-97ad-089606922e48)

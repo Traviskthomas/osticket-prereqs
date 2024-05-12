@@ -17,10 +17,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create an Azure Tenant
+- Create a Azure Tenant
 - Create a Virtual Machine
-- Create a Resource Gruop
-- Install osTickket on Virtual Machine
+- Create a Resource Group
+- Install osTicket on Virtual Machine
   
 
 <h2>Installation Steps</h2>
